@@ -1,0 +1,8 @@
+README.rst
+setup.py
+poetry_app/__init__.py
+poetry_app.egg-info/PKG-INFO
+poetry_app.egg-info/SOURCES.txt
+poetry_app.egg-info/dependency_links.txt
+poetry_app.egg-info/requires.txt
+poetry_app.egg-info/top_level.txt
